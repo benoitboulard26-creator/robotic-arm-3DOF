@@ -6,7 +6,7 @@ All parts are **fully 3D-printable** and were:
 - **Designed in CATIA**
 - **Exported to STL**
 - **Assembled and validated in Autodesk Fusion**
-- 
+
 ## 🖼️ Media 
 <p align="center">
   <img src="media/robot_full.png" width="30%" alt="Full robot assembly" />
@@ -75,6 +75,7 @@ The claw uses a **passive elastic return mechanism**:
 👉 Design already accounts for **insert-compatible holes**.
 
 ---
+
 
 
 
