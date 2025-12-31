@@ -8,9 +8,6 @@ All parts are **fully 3D-printable** and were:
 - **Assembled and validated in Autodesk Fusion**
 - 
 ## 🖼️ Media 
-
-## 🖼️ Visual Documentation
-
 <p align="center">
   <img src="media/robot_full.png" width="30%" alt="Full robot assembly" />
   <img src="media/robot_motion.gif" width="30%" alt="Robot motion without claw" />
@@ -78,6 +75,7 @@ The claw uses a **passive elastic return mechanism**:
 👉 Design already accounts for **insert-compatible holes**.
 
 ---
+
 
 
 
