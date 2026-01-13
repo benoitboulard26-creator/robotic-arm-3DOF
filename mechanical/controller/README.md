@@ -10,7 +10,6 @@ The controller is built around an **Arduino Uno R3**, stacked with a **servo shi
 
 <p align="center">
   <img src="controller_box.png" width="30%" alt="Controller enclosure" />
-  <img src="controller_motion.gif" width="30%" alt="Robot controlled via Wiimote" />
   <img src="controller_inside.png" width="30%" alt="Controller internal layout" />
 </p>
 
@@ -106,3 +105,4 @@ This results in **direct, manual, real-time control** of the robot arm.
 - [x] Claw control via button
 - [ ] Improved precision and stability needed
 - [ ] Servo shield CAD model missing
+
