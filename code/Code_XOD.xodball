@@ -1,0 +1,19 @@
+{
+  "patches": {
+    "@/main": {
+      "nodes": {
+        "BkiBVslIA": {
+          "id": "BkiBVslIA",
+          "type": "xod-dev/servo/example-00-pot",
+          "position": {
+            "x": 0,
+            "y": -0.25,
+            "units": "slots"
+          }
+        }
+      },
+      "path": "@/main"
+    }
+  },
+  "name": "code-xod"
+}
