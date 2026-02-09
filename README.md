@@ -1,4 +1,4 @@
-# 3DOF Robotic Arm — Wiimote Controlled
+# 3DOF Robotic Arm — Wiimote Controlleedd
 
 A **3 Degrees of Freedom robotic arm** designed as a **hobby and learning project**, combining **mechanical design**, **embedded control**, and **intuitive human interaction**.
 
